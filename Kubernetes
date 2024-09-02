@@ -10,8 +10,8 @@ Advanced concepts in k8s:
 4. Enterprise edition (contains Load Balancer, Firewall, API Gateway..)
 
 
-#Difference between container and kubernetes
-### Container                      | ###Kubernetes
+Difference between container and kubernetes
+Container                          | Kubernetes
 -----------------------------------|-----------------------------
 1. Container platform              | 1. Container orchestration platform
 2. Single host                     | 2. Node installed as clusetr (Multiple nodes)
