@@ -1,0 +1,11 @@
+k8S Architecture containes two parts 
+1. Control Plane
+2. Data Plane
+
+Control Plane              | Data Plane
+---------------------------|------------------------
+1. API Server              | 1. Pod (Container Runtime)
+2. Etcd                    | 2. Kubelet (Managing nodes)
+3. Schedular               | 3. Kube Proxy (network component)
+4. Control Manager         |
+5. Cloud Control Manager   |
