@@ -1,5 +1,8 @@
 # Kubernetes
 
+# Kubernetes (k8s)
+k8s is container orchestartion platform.
+
 # Kubernetes Service (Deep Dive)
 ## There are three types of services in k8s
 1. Cluster IP Mode
