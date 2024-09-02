@@ -1,0 +1,19 @@
+Kubernetes is a container orchestration platform.
+Node installed as cluster
+Container group of nodes(Pods)
+
+Advanced concepts in k8s:
+-------------------------
+1. Muliple nodes    (multiple nodes as pod)
+2. Auto healing     (without manual interruption the node stats automatically)
+3. Auto scaling     (Replica set, Horizontal Pod Autoscaling(HPA))
+4. Enterprise edition (contains Load Balancer, Firewall, API Gateway..)
+
+
+#Difference between container and kubernetes
+### Container                      | ###Kubernetes
+-----------------------------------|-----------------------------
+1. Container platform              | 1. Container orchestration platform
+2. Single host                     | 2. Node installed as clusetr (Multiple nodes)
+3. Ephemeral in nature(short life) | 3. Enterprise edition
+                                   
